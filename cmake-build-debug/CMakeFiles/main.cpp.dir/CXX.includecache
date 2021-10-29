@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/AidanSiegel/Desktop/Junoir Year/Spring/CS120/Final-Project-asiegel2/Button.h
+Quad.h
+/Users/AidanSiegel/Desktop/Junoir Year/Spring/CS120/Final-Project-asiegel2/Quad.h
+string
+-
+
+/Users/AidanSiegel/Desktop/Junoir Year/Spring/CS120/Final-Project-asiegel2/Quad.h
+
+/Users/AidanSiegel/Desktop/Junoir Year/Spring/CS120/Final-Project-asiegel2/circle.h
+math.h
+-
+string
+-
+
+/Users/AidanSiegel/Desktop/Junoir Year/Spring/CS120/Final-Project-asiegel2/graphics.cpp
+graphics.h
+/Users/AidanSiegel/Desktop/Junoir Year/Spring/CS120/Final-Project-asiegel2/graphics.h
+Button.h
+/Users/AidanSiegel/Desktop/Junoir Year/Spring/CS120/Final-Project-asiegel2/Button.h
+circle.h
+/Users/AidanSiegel/Desktop/Junoir Year/Spring/CS120/Final-Project-asiegel2/circle.h
+iostream
+-
+time.h
+-
+vector
+-
+GLUT/glut.h
+-
+math.h
+-
+
+/Users/AidanSiegel/Desktop/Junoir Year/Spring/CS120/Final-Project-asiegel2/graphics.h
+stdlib.h
+-
+windows.h
+-
+sys/time.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+
